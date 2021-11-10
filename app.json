@@ -8,9 +8,9 @@
         "Telegram Bot",
         "SDBots"
     ],
-    "website": "https://t.me/SDBOTs_inifinity",
-    "repository": "https://github.com/Sadew451/SDSongBot",
-    "success_url": "https://t.me/SDBOTs_inifinity",
+    "website": "https://t.me/Master_X_Updates",
+    "repository": "https://github.com/Team-MasterXBots/Music-DOWNLOADER-Bot",
+    "success_url": "https://t.me/Master_X_Updates",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
