@@ -1,12 +1,12 @@
 {
-    "name": "SD Song Bot",
+    "name": "Music DOWNLOADER Bot",
     "description": "A bot that can download songs.",
     "logo": "https://telegra.ph/file/b8e564454da50ddc80b59.jpg",
     "keywords": [
         "SDSongBot",
         "Song Downloader",
         "Telegram Bot",
-        "SDBots"
+        "MXBots"
     ],
     "website": "https://t.me/Master_X_Updates",
     "repository": "https://github.com/Team-MasterXBots/Music-DOWNLOADER-Bot",
