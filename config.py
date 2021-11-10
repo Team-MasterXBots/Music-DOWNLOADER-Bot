@@ -1,4 +1,4 @@
-#SDBOTs <https://t.me/SDBOTs_Inifinity>
+#MasterXBOTs <https://t.me/Master_X_Updates>
 
 import os
 API_ID = int(os.getenv("API_ID"))
